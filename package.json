@@ -1,0 +1,8 @@
+{
+  "name": "upschool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jcarlosmejiaayala/upschool.git",
+  "author": "Juan Carlos Mejia Ayala <jcarlosmejiaayala@gmail.com>",
+  "license": "MIT"
+}
